@@ -1,7 +1,7 @@
 # wildfire_cause_prediction
 
-This work was part of a class project.
-Collaberators: Sasha Fomina and Thai Khong
+This work was part of an ML projects class.
+Collaborators: Sasha Fomina and Thai Khong
 
 ## Overview
 Using data about the size, location, and time of reported wildfires, we predicted their cause. 
